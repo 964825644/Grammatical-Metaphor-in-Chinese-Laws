@@ -1,4 +1,4 @@
-#多重对应分析Multiple Correspondence analysis,adapted from Xu (2023)许家金(2023)语料库研究方法
+#多重对应分析Multiple Correspondence analysis,adapted from Xu (2023)(许家金. 2023. 语料库研究方法[M]. 北京:外语教学与研究出版社)
 #隐喻与语义交联多重对应分析模板
 
 library(FactoMineR)
