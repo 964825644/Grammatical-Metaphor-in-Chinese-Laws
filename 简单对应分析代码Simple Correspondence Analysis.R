@@ -1,5 +1,4 @@
-#简单对应分析 Simple Correspondence analysis，adapted from Xu (2023)许家金(2023)语料库研究方法
-
+#简单对应分析 Simple Correspondence analysis，adapted from Xu (2023)(许家金. 2023. 语料库研究方法[M]. 北京:外语教学与研究出版社)
 library(ca)
 
 # Specify the file path
