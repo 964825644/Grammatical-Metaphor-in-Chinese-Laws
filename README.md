@@ -1,4 +1,4 @@
-This project contains the materials utilized in the postgraduate thesis by Yixi Li, aka Fukushima Aviv Biber Choi.
+This project contains the materials utilized in the postgraduate thesis by Yixi Li (aka Fukushima Aviv Biber Choi), supervised by Pro. Yanning Yang.
 
 The title of thesis: The Coupling of Grammatical Metaphor and Semantics in Legislative Language (Chinese title: 立法语言中语法隐喻与语义的耦合)
 
