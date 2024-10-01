@@ -4,7 +4,7 @@ The title of thesis: The Coupling of Grammatical Metaphor and Semantics in Legis
 
 The thesis is intended for the obtainance of master degree of linguistics in East China Normal University (ECNU) in the year of 2025.
 
-The materials in this project include the labeled Excel file, R scrips for simple and multiple correspondence analysis, raw statistics for analysis, etc.
+The materials in this project include the labeled Excel file, R scripts for simple and multiple correspondence analysis, raw statistics for analysis, etc.
 
 All suggestions, modifications, or criticisms on labeling method, labeling result, analysis in the thesis, discussion in the thesis are highly appreciated and welcomed.
 
